@@ -1,0 +1,28 @@
+# Byte-compiled / cached files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+env/
+.venv/
+.venv/*
+
+# Logs & System files
+*.log
+.DS_Store
+Thumbs.db
+
+# PyInstaller build files
+build/
+dist/
+*.spec
+
+# Executable files
+*.exe
+*.dll
+
+# Ignore Git-specific files
+.git/
