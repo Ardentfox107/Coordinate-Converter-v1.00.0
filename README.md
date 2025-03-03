@@ -13,7 +13,7 @@ Coordinate Converter is a small project that come about after finding a need to 
 
 One feature that I have implemented in this app is a simiple input/output format. Many coordinate converters require separate input fields for latitude and longitude, but that's not always practical when copying coordinates from various sources. With this in mind, I designed this app with a single input field, allowing users to paste an entire coordinate string, press convert, and get the result instantly. The app still supports converting individual values as well as multiple coordinate sets at once.
 
-_A wonderful example for the use of this app is to convert DM or DMS format quickly to DD since the format is more friendly for typing (##.#### vs. 35°52.783′ N . I prefer DD for all of my use cases. _
+_A wonderful example for the use of this app is to convert DM or DMS format quickly to DD since the format is more friendly for typing (##.#### vs. 35°52.783′ N . I prefer DD for all of my use cases._
 ________________________________________
 🔹 **Overview**
 
