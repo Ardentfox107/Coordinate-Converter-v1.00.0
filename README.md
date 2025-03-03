@@ -58,15 +58,12 @@ ________________________________________
 •	Mac/Linux: Currently, only available for Windows.
 🛠️ Using Python?
 If you prefer running the script directly:
-git clone https://github.com/your-github-repo-name.git
+git clone https://github.com/Ardentfox107/Coordinate-Converter-v1.00.0.git
 cd coordinate_converter
 python coordinate_converter.py
 (Requires Python 3.10+ and Tkinter.)
 ________________________________________
-🎨 User Interface (UI Preview)
-Here’s what the app looks like:
-
-(Replace with actual UI screenshot.)
+🎨 User Interface 
 🔹 Features at a Glance:
 •	Enter coordinates in any format
 •	Use symbol buttons for °, ′, and ″
@@ -102,6 +99,6 @@ python coordinate_converter.py
 ________________________________________
 📜 License
 📜 This project is licensed under the MIT License, meaning you’re free to use, modify, and distribute it.
-🚀 Made with ❤️ by [Your Name]
-🔗 Website/GitHub: [Your Repo Link Here]
+🚀 Made with ❤️ by Anima.Atra!
+🔗 Website/GitHub: https://github.com/Ardentfox107
 
